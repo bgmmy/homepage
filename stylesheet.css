@@ -132,12 +132,13 @@
     top:67px;
     left:0;
     right:0;
-    width:60%;
+/*     width:60%; */
     margin:auto;
   }
 
   .menu-icon-list ul {
     padding-right: 40px;
+    margin-top:0;
   }
 
   .menu-icon-list a {
